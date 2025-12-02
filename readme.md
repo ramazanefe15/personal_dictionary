@@ -1,1 +1,1 @@
-This program receives word and definition and store them in a txt file.
+This program receives word and definition and stores them in a txt file.
